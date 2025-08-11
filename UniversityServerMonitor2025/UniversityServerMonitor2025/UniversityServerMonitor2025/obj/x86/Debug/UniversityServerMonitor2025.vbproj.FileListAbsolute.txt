@@ -1,0 +1,23 @@
+C:\Users\mayke\AppData\Local\Temporary Projects\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.Form1.resources
+C:\Users\mayke\AppData\Local\Temporary Projects\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.Resources.resources
+C:\Users\mayke\AppData\Local\Temporary Projects\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.vbproj.GenerateResource.Cache
+C:\Users\mayke\AppData\Local\Temporary Projects\UniversityServerMonitor2025\bin\Debug\UniversityServerMonitor2025.exe
+C:\Users\mayke\AppData\Local\Temporary Projects\UniversityServerMonitor2025\bin\Debug\UniversityServerMonitor2025.pdb
+C:\Users\mayke\AppData\Local\Temporary Projects\UniversityServerMonitor2025\bin\Debug\UniversityServerMonitor2025.xml
+C:\Users\mayke\AppData\Local\Temporary Projects\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.exe
+C:\Users\mayke\AppData\Local\Temporary Projects\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.xml
+C:\Users\mayke\AppData\Local\Temporary Projects\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.pdb
+C:\Users\mayke\OneDrive\Documents\Visual Studio 2010\Projects\Working version\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.exe
+C:\Users\mayke\OneDrive\Documents\Visual Studio 2010\Projects\Working version\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.xml
+C:\Users\mayke\OneDrive\Documents\Visual Studio 2010\Projects\Working version\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.pdb
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\bin\Debug\UniversityServerMonitor2025.exe
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\bin\Debug\UniversityServerMonitor2025.pdb
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\bin\Debug\UniversityServerMonitor2025.xml
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.vbproj.AssemblyReference.cache
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.Form1.resources
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.Resources.resources
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.vbproj.GenerateResource.cache
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.vbproj.CoreCompileInputs.cache
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.exe
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.xml
+C:\Users\mayke\Downloads\UniversityServerMonitor2025\UniversityServerMonitor2025\UniversityServerMonitor2025\obj\x86\Debug\UniversityServerMonitor2025.pdb
